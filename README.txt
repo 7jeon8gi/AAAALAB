@@ -10,3 +10,6 @@ KoBERT 12/10 2019.ipynb: BERT 파인튜닝
 
 mykobert.pt: 파인튜닝된 파일 (업로드 불가)
 Cosine Similarity.ipynb: 파인튜닝된 임베딩 값의 토이 실험
+
+experiment_data2: 문장 유사도 실험 데이터
+버트테스트문장all: 문장 유사도 실험 데이터
